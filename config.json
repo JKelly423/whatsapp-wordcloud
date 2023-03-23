@@ -1,0 +1,5 @@
+{
+  "my_name":        "my_contact_name_as_appears_in_Whatsapp",
+  "partner_name":   "partner_contact_name_as_appears_in_Whatsapp",
+  "chat_filepath":  "./data/_chat.txt"
+}
