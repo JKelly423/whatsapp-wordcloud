@@ -2,7 +2,8 @@
 
 
 #### Generate Frequency-Based WordCloud of Whatsapp Conversation from Exported Chat Log
-
+#### Designed originally to generate a wordcloud of myself and my partners text messages we exchanged via whatsapp while travelling.
+##### The program generates a seperate wordcloud for each user's messages to provide a look at which each person said most frequently.
 ## Installation
 
 The project can be cloned from github using the following command
